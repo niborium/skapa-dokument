@@ -12,11 +12,11 @@ Skapa enkelt dokument och exportera till PDF.
 
 ## Använder paket
 
-react
-react-dom
-parcel
-ckeditor
-html2pdf.js
+react  
+react-dom  
+parcel  
+ckeditor  
+html2pdf.js  
 
 Har även svensk översättning för CKEditor.
 

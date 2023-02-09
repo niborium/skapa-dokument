@@ -1,0 +1,35 @@
+{
+  "name": "niborium-skapa-dokument",
+  "version": "1.0.0",
+  "description": "Skapa dokument enkelt via denna React applikation och exportera dokument som pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niborium/skapa-dokument.git"
+  },
+  "author": "Niborium (Github)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niborium/skapa-dokument/issues"
+  },
+  "homepage": "https://github.com/niborium/skapa-dokument/",
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-balloon": "^36.0.1",
+    "@ckeditor/ckeditor5-build-balloon-block": "^36.0.1",
+    "@ckeditor/ckeditor5-build-classic": "^36.0.1",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^36.0.1",
+    "@ckeditor/ckeditor5-build-inline": "^36.0.1",
+    "@ckeditor/ckeditor5-react": "^5.0.6",
+    "html2pdf.js": "^0.10.1",
+    "parcel": "^2.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

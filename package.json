@@ -2,7 +2,6 @@
   "name": "niborium-skapa-dokument",
   "version": "1.0.0",
   "description": "Skapa dokument enkelt via denna React applikation och exportera dokument som pdf",
-  "public": "dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html --open",

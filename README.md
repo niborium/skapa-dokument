@@ -4,7 +4,7 @@ Skapa enkelt dokument och exportera till PDF.
 
 ## Steg (Installera lokalt)
 
-1. Gå till Code (högra hörnet) eller ladda ner från Releases.
+1. Gå till Code (högra hörnet).
 2. Ladda ner zip.
 3. Packa upp zip (på skrivbordet eller någon annanstans)
 4. Gå till mappen och öppna i terminalen.
